@@ -1,0 +1,376 @@
+{
+    "status": "success",
+    "message": "Success",
+    "data": {
+        "author": {
+            "id": 2,
+            "name": "Mad Snail",
+            "slug": "mad-snail",
+            "created_at": null,
+            "updated_at": null
+        },
+        "current_page": 1,
+        "data": [
+            {
+                "id": 2,
+                "name": "Y\u00eau Th\u1ea7n K\u00fd",
+                "slug": "yeu-than-ky",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/yeu-than-ky-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Y\u00eau Th\u1ea7n V\u1eeba Xu\u1ea5t, Ai D\u00e1m Tranh Phong Y\u00eau Linh S\u01b0 M\u1ea1nh Nh\u1ea5t Th\u00e1nh Linh \u0110\u1ea1i L\u1ee5c Nhi\u1ebfp Li, b\u1edfi v\u00ec m\u1ed9t cu\u1ed1n s\u00e1ch th\u1ea7n b\u00ed Y\u00eau Linh Th\u1eddi Kh\u00f4ng m\u00e0 tr\u1edf v\u1ec1 n\u0103m 13 tu\u1ed5i, tu luy\u1ec7n m\u1ea1nh nh\u1ea5t c\u00f4ng ph\u00e1p, m\u1ea1nh nh\u1ea5t y\u00eau linh chi l\u1ef1c, \u0111\u1ed9t ph\u00e1 t\u1edbi v\u00f5 \u0111\u1ea1o \u0111\u1ec9nh phong... K\u1ebb th\u00f9 ki\u1ebfp tr\u01b0\u1edbc, to\u00e0n b\u1ed9 thanh to\u00e1n... N\u1ebfu nh\u01b0 \u0111\u00e3 tr\u00f9ng sinh, th\u00ec ki\u1ebfp n\u00e0y ta l\u00e0 ch\u00faa t\u1ec3 \u0111\u1ea1i l\u1ee5c, V\u1ea1n Th\u1ea7n chi V\u01b0\u01a1ng,\u0111\u1ec3 cho t\u1ea5t c\u1ea3 run r\u1ea9y d\u01b0\u1edbi ch\u00e2n ta \u0111i<\/p>",
+                "created_at": "2024-05-23T17:23:08.000000Z",
+                "updated_at": "2024-05-23T17:23:12.000000Z",
+                "crawler_at": "2024-05-23 12:53:20",
+                "chapters_count": 775,
+                "status_label": "ONGOING",
+                "categories": [
+                    {
+                        "id": 1,
+                        "name": "Action",
+                        "slug": "action",
+                        "description": null,
+                        "content": null,
+                        "status": 1,
+                        "created_at": "2024-05-22T11:30:30.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 2,
+                            "category_id": 1
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "Comedy",
+                        "slug": "comedy",
+                        "description": null,
+                        "content": null,
+                        "status": 1,
+                        "created_at": "2024-05-22T11:30:30.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 2,
+                            "category_id": 6
+                        }
+                    },
+                    {
+                        "id": 14,
+                        "name": "Fantasy",
+                        "slug": "fantasy",
+                        "description": null,
+                        "content": null,
+                        "status": 1,
+                        "created_at": "2024-05-22T11:30:30.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 2,
+                            "category_id": 14
+                        }
+                    },
+                    {
+                        "id": 21,
+                        "name": "Manga",
+                        "slug": "manga",
+                        "description": null,
+                        "content": null,
+                        "status": 1,
+                        "created_at": "2024-05-22T11:30:30.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 2,
+                            "category_id": 21
+                        }
+                    },
+                    {
+                        "id": 22,
+                        "name": "Manhua",
+                        "slug": "manhua",
+                        "description": null,
+                        "content": null,
+                        "status": 1,
+                        "created_at": "2024-05-22T11:30:30.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 2,
+                            "category_id": 22
+                        }
+                    },
+                    {
+                        "id": 31,
+                        "name": "Romance",
+                        "slug": "romance",
+                        "description": null,
+                        "content": null,
+                        "status": 1,
+                        "created_at": "2024-05-22T11:30:30.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 2,
+                            "category_id": 31
+                        }
+                    },
+                    {
+                        "id": 37,
+                        "name": "Shounen",
+                        "slug": "shounen",
+                        "description": null,
+                        "content": null,
+                        "status": 1,
+                        "created_at": "2024-05-22T11:30:30.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 2,
+                            "category_id": 37
+                        }
+                    },
+                    {
+                        "id": 39,
+                        "name": "Slice of Life",
+                        "slug": "slice-of-life",
+                        "description": null,
+                        "content": null,
+                        "status": 1,
+                        "created_at": "2024-05-22T11:30:30.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 2,
+                            "category_id": 39
+                        }
+                    },
+                    {
+                        "id": 44,
+                        "name": "Supernatural",
+                        "slug": "supernatural",
+                        "description": null,
+                        "content": null,
+                        "status": 1,
+                        "created_at": "2024-05-22T11:30:30.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 2,
+                            "category_id": 44
+                        }
+                    },
+                    {
+                        "id": 50,
+                        "name": "Truy\u1ec7n M\u00e0u",
+                        "slug": "truyen-mau",
+                        "description": null,
+                        "content": null,
+                        "status": 1,
+                        "created_at": "2024-05-22T11:30:30.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 2,
+                            "category_id": 50
+                        }
+                    }
+                ]
+            }
+        ],
+        "first_page_url": "http:\/\/truyentranh.crawl\/api\/v1\/authors\/list-comic\/2?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "http:\/\/truyentranh.crawl\/api\/v1\/authors\/list-comic\/2?page=1",
+        "links": {
+            "current_page": 1,
+            "data": [
+                {
+                    "id": 2,
+                    "name": "Y\u00eau Th\u1ea7n K\u00fd",
+                    "slug": "yeu-than-ky",
+                    "status": 0,
+                    "view": 0,
+                    "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/yeu-than-ky-thumb.jpg",
+                    "sub_docquyen": 0,
+                    "content": "<p>Y\u00eau Th\u1ea7n V\u1eeba Xu\u1ea5t, Ai D\u00e1m Tranh Phong Y\u00eau Linh S\u01b0 M\u1ea1nh Nh\u1ea5t Th\u00e1nh Linh \u0110\u1ea1i L\u1ee5c Nhi\u1ebfp Li, b\u1edfi v\u00ec m\u1ed9t cu\u1ed1n s\u00e1ch th\u1ea7n b\u00ed Y\u00eau Linh Th\u1eddi Kh\u00f4ng m\u00e0 tr\u1edf v\u1ec1 n\u0103m 13 tu\u1ed5i, tu luy\u1ec7n m\u1ea1nh nh\u1ea5t c\u00f4ng ph\u00e1p, m\u1ea1nh nh\u1ea5t y\u00eau linh chi l\u1ef1c, \u0111\u1ed9t ph\u00e1 t\u1edbi v\u00f5 \u0111\u1ea1o \u0111\u1ec9nh phong... K\u1ebb th\u00f9 ki\u1ebfp tr\u01b0\u1edbc, to\u00e0n b\u1ed9 thanh to\u00e1n... N\u1ebfu nh\u01b0 \u0111\u00e3 tr\u00f9ng sinh, th\u00ec ki\u1ebfp n\u00e0y ta l\u00e0 ch\u00faa t\u1ec3 \u0111\u1ea1i l\u1ee5c, V\u1ea1n Th\u1ea7n chi V\u01b0\u01a1ng,\u0111\u1ec3 cho t\u1ea5t c\u1ea3 run r\u1ea9y d\u01b0\u1edbi ch\u00e2n ta \u0111i<\/p>",
+                    "created_at": "2024-05-23T17:23:08.000000Z",
+                    "updated_at": "2024-05-23T17:23:12.000000Z",
+                    "crawler_at": "2024-05-23 12:53:20",
+                    "chapters_count": 775,
+                    "status_label": "ONGOING",
+                    "categories": [
+                        {
+                            "id": 1,
+                            "name": "Action",
+                            "slug": "action",
+                            "description": null,
+                            "content": null,
+                            "status": 1,
+                            "created_at": "2024-05-22T11:30:30.000000Z",
+                            "updated_at": null,
+                            "pivot": {
+                                "comic_id": 2,
+                                "category_id": 1
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "name": "Comedy",
+                            "slug": "comedy",
+                            "description": null,
+                            "content": null,
+                            "status": 1,
+                            "created_at": "2024-05-22T11:30:30.000000Z",
+                            "updated_at": null,
+                            "pivot": {
+                                "comic_id": 2,
+                                "category_id": 6
+                            }
+                        },
+                        {
+                            "id": 14,
+                            "name": "Fantasy",
+                            "slug": "fantasy",
+                            "description": null,
+                            "content": null,
+                            "status": 1,
+                            "created_at": "2024-05-22T11:30:30.000000Z",
+                            "updated_at": null,
+                            "pivot": {
+                                "comic_id": 2,
+                                "category_id": 14
+                            }
+                        },
+                        {
+                            "id": 21,
+                            "name": "Manga",
+                            "slug": "manga",
+                            "description": null,
+                            "content": null,
+                            "status": 1,
+                            "created_at": "2024-05-22T11:30:30.000000Z",
+                            "updated_at": null,
+                            "pivot": {
+                                "comic_id": 2,
+                                "category_id": 21
+                            }
+                        },
+                        {
+                            "id": 22,
+                            "name": "Manhua",
+                            "slug": "manhua",
+                            "description": null,
+                            "content": null,
+                            "status": 1,
+                            "created_at": "2024-05-22T11:30:30.000000Z",
+                            "updated_at": null,
+                            "pivot": {
+                                "comic_id": 2,
+                                "category_id": 22
+                            }
+                        },
+                        {
+                            "id": 31,
+                            "name": "Romance",
+                            "slug": "romance",
+                            "description": null,
+                            "content": null,
+                            "status": 1,
+                            "created_at": "2024-05-22T11:30:30.000000Z",
+                            "updated_at": null,
+                            "pivot": {
+                                "comic_id": 2,
+                                "category_id": 31
+                            }
+                        },
+                        {
+                            "id": 37,
+                            "name": "Shounen",
+                            "slug": "shounen",
+                            "description": null,
+                            "content": null,
+                            "status": 1,
+                            "created_at": "2024-05-22T11:30:30.000000Z",
+                            "updated_at": null,
+                            "pivot": {
+                                "comic_id": 2,
+                                "category_id": 37
+                            }
+                        },
+                        {
+                            "id": 39,
+                            "name": "Slice of Life",
+                            "slug": "slice-of-life",
+                            "description": null,
+                            "content": null,
+                            "status": 1,
+                            "created_at": "2024-05-22T11:30:30.000000Z",
+                            "updated_at": null,
+                            "pivot": {
+                                "comic_id": 2,
+                                "category_id": 39
+                            }
+                        },
+                        {
+                            "id": 44,
+                            "name": "Supernatural",
+                            "slug": "supernatural",
+                            "description": null,
+                            "content": null,
+                            "status": 1,
+                            "created_at": "2024-05-22T11:30:30.000000Z",
+                            "updated_at": null,
+                            "pivot": {
+                                "comic_id": 2,
+                                "category_id": 44
+                            }
+                        },
+                        {
+                            "id": 50,
+                            "name": "Truy\u1ec7n M\u00e0u",
+                            "slug": "truyen-mau",
+                            "description": null,
+                            "content": null,
+                            "status": 1,
+                            "created_at": "2024-05-22T11:30:30.000000Z",
+                            "updated_at": null,
+                            "pivot": {
+                                "comic_id": 2,
+                                "category_id": 50
+                            }
+                        }
+                    ]
+                }
+            ],
+            "first_page_url": "http:\/\/truyentranh.crawl\/api\/v1\/authors\/list-comic\/2?page=1",
+            "from": 1,
+            "last_page": 1,
+            "last_page_url": "http:\/\/truyentranh.crawl\/api\/v1\/authors\/list-comic\/2?page=1",
+            "links": [
+                {
+                    "url": null,
+                    "label": "&laquo; Previous",
+                    "active": false
+                },
+                {
+                    "url": "http:\/\/truyentranh.crawl\/api\/v1\/authors\/list-comic\/2?page=1",
+                    "label": "1",
+                    "active": true
+                },
+                {
+                    "url": null,
+                    "label": "Next &raquo;",
+                    "active": false
+                }
+            ],
+            "next_page_url": null,
+            "path": "http:\/\/truyentranh.crawl\/api\/v1\/authors\/list-comic\/2",
+            "per_page": 20,
+            "prev_page_url": null,
+            "to": 1,
+            "total": 1
+        },
+        "next_page_url": null,
+        "path": "http:\/\/truyentranh.crawl\/api\/v1\/authors\/list-comic\/2",
+        "per_page": 20,
+        "prev_page_url": null,
+        "to": 1,
+        "total": 1
+    },
+    "params": {
+        "ids_category": "1",
+        "api_key": "test"
+    }
+}

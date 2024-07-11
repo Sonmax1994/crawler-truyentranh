@@ -1,0 +1,128 @@
+{
+    "status": "success",
+    "message": "Success",
+    "data": {
+        "id": 109,
+        "name": 108,
+        "comic_name": "Kingdom - V\u01b0\u01a1ng Gi\u1ea3 Thi\u00ean H\u1ea1 [Chap 1-798]",
+        "chapter_name": 108,
+        "chapter_image": [
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_1.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_2.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_3.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_4.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_5.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_6.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_7.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_8.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_9.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_10.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_11.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_12.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_13.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_14.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_15.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_16.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_17.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_18.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_19.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_20.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_21.jpg"
+            },
+            {
+                "image_page": 1,
+                "image_file": "https:\/\/sv1.otruyencdn.com\/uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_108\/page_22.jpg"
+            }
+        ],
+        "created_at": "2024-05-22 11:31:09",
+        "prev": {
+            "id": 108,
+            "comic_id": 1,
+            "name": 107,
+            "filename": "kingdom-vuong-gia-thien-ha-chap-1-780",
+            "status": 1,
+            "path": "uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_107",
+            "number_image": "24",
+            "created_at": "2024-05-22T11:31:09.000000Z",
+            "updated_at": null
+        },
+        "next": {
+            "id": 110,
+            "comic_id": 1,
+            "name": 109,
+            "filename": "kingdom-vuong-gia-thien-ha-chap-1-780",
+            "status": 1,
+            "path": "uploads\/20231230\/0608ddc9cdb83118ca64fd072a8024f4\/chapter_109",
+            "number_image": "19",
+            "created_at": "2024-05-22T11:31:09.000000Z",
+            "updated_at": null
+        }
+    },
+    "params": {
+        "api_key": "test",
+        "brand": "MeTruyen",
+        "domain_link": "metruyen.online"
+    }
+}

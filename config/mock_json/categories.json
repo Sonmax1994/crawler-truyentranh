@@ -1,0 +1,551 @@
+{
+    "status": "success",
+    "message": "Success",
+    "data": [
+        {
+            "id": 1,
+            "name": "Action",
+            "slug": "action",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 2,
+            "name": "Adult",
+            "slug": "adult",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 4,
+            "name": "Anime",
+            "slug": "anime",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 5,
+            "name": "Chuy\u1ec3n Sinh",
+            "slug": "chuyen-sinh",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 6,
+            "name": "Comedy",
+            "slug": "comedy",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 7,
+            "name": "Comic",
+            "slug": "comic",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 8,
+            "name": "Cooking",
+            "slug": "cooking",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 9,
+            "name": "C\u1ed5 \u0110\u1ea1i",
+            "slug": "co-dai",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 10,
+            "name": "Doujinshi",
+            "slug": "doujinshi",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 11,
+            "name": "Drama",
+            "slug": "drama",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 12,
+            "name": "\u0110am M\u1ef9",
+            "slug": "dam-my",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 13,
+            "name": "Ecchi",
+            "slug": "ecchi",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 14,
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 15,
+            "name": "Gender Bender",
+            "slug": "gender-bender",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 16,
+            "name": "Harem",
+            "slug": "harem",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 17,
+            "name": "Historical",
+            "slug": "historical",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 18,
+            "name": "Horror",
+            "slug": "horror",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 19,
+            "name": "Josei",
+            "slug": "josei",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 20,
+            "name": "Live action",
+            "slug": "live-action",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 21,
+            "name": "Manga",
+            "slug": "manga",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 22,
+            "name": "Manhua",
+            "slug": "manhua",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 23,
+            "name": "Manhwa",
+            "slug": "manhwa",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 24,
+            "name": "Martial Arts",
+            "slug": "martial-arts",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 25,
+            "name": "Mature",
+            "slug": "mature",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 26,
+            "name": "Mecha",
+            "slug": "mecha",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 27,
+            "name": "Mystery",
+            "slug": "mystery",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 28,
+            "name": "Ng\u00f4n T\u00ecnh",
+            "slug": "ngon-tinh",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 29,
+            "name": "One shot",
+            "slug": "one-shot",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 30,
+            "name": "Psychological",
+            "slug": "psychological",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 31,
+            "name": "Romance",
+            "slug": "romance",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 32,
+            "name": "School Life",
+            "slug": "school-life",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 33,
+            "name": "Sci-fi",
+            "slug": "sci-fi",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 34,
+            "name": "Seinen",
+            "slug": "seinen",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 35,
+            "name": "Shoujo",
+            "slug": "shoujo",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 36,
+            "name": "Shoujo Ai",
+            "slug": "shoujo-ai",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 37,
+            "name": "Shounen",
+            "slug": "shounen",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 38,
+            "name": "Shounen Ai",
+            "slug": "shounen-ai",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 39,
+            "name": "Slice of Life",
+            "slug": "slice-of-life",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 40,
+            "name": "Smut",
+            "slug": "smut",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 41,
+            "name": "Soft Yaoi",
+            "slug": "soft-yaoi",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 42,
+            "name": "Soft Yuri",
+            "slug": "soft-yuri",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 43,
+            "name": "Sports",
+            "slug": "sports",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 44,
+            "name": "Supernatural",
+            "slug": "supernatural",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 45,
+            "name": "T\u1ea1p ch\u00ed truy\u1ec7n tranh",
+            "slug": "tap-chi-truyen-tranh",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 46,
+            "name": "Thi\u1ebfu Nhi",
+            "slug": "thieu-nhi",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 47,
+            "name": "Tragedy",
+            "slug": "tragedy",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 48,
+            "name": "Trinh Th\u00e1m",
+            "slug": "trinh-tham",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 49,
+            "name": "Truy\u1ec7n scan",
+            "slug": "truyen-scan",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 50,
+            "name": "Truy\u1ec7n M\u00e0u",
+            "slug": "truyen-mau",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 51,
+            "name": "Vi\u1ec7t Nam",
+            "slug": "viet-nam",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 52,
+            "name": "Webtoon",
+            "slug": "webtoon",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 53,
+            "name": "Xuy\u00ean Kh\u00f4ng",
+            "slug": "xuyen-khong",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        },
+        {
+            "id": 54,
+            "name": "16+",
+            "slug": "16",
+            "description": null,
+            "content": null,
+            "status": 1,
+            "created_at": "2024-05-21T04:38:01.000000Z",
+            "updated_at": null
+        }
+    ],
+    "params": {
+        "api_key": "test",
+        "brand": "MeTruyen",
+        "domain_link": "metruyen.online"
+    }
+}

@@ -1,0 +1,1783 @@
+{
+    "status": "success",
+    "message": "Success",
+    "data": [
+        {
+            "id": 340,
+            "name": "Hi\u1ec7p S\u0129 S\u1ed1ng V\u00ec Ng\u00e0y H\u00f4m Nay",
+            "slug": "hiep-si-song-vi-ngay-hom-nay",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/hiep-si-song-vi-ngay-hom-nay-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>Truy\u1ec7n tranh Hi\u1ec7p S\u0129 S\u1ed1ng V\u00ec Ng\u00e0y H\u00f4m Nay<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:53:46.000000Z",
+            "chapters_count": 4,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 340,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 23,
+                    "name": "Manhwa",
+                    "slug": "manhwa",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 340,
+                        "category_id": 23
+                    }
+                },
+                {
+                    "id": 50,
+                    "name": "Truy\u1ec7n M\u00e0u",
+                    "slug": "truyen-mau",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 340,
+                        "category_id": 50
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 112,
+                "comic_id": 340,
+                "name": 4,
+                "filename": "hiep-si-song-vi-ngay-hom-nay-chap-1-4",
+                "status": 1,
+                "path": "uploads\/20240520\/979a629c1f75e5456d8c1d0ff6fc04d0\/chapter_4",
+                "number_image": "161",
+                "created_at": "2024-05-22T04:53:46.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 341,
+            "name": "Demon Slave",
+            "slug": "demon-slave",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/demon-slave-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "k\u1ec3 v\u1ec1 nh\u1eefng cu\u1ed9c chi\u1ebfn ch\u1ed1ng l\u1ea1i nh\u1eefng con qu\u1ef7 \u1edf trong Ma \u0111\u00f4 (Th\u00e0nh ph\u1ed1 ma thu\u1eadt). C\u00f9ng t\u00e1c gi\u1ea3 v\u1edbi Akame ga Kill",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:53:54.000000Z",
+            "chapters_count": 0,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 341,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 341,
+                        "category_id": 3
+                    }
+                },
+                {
+                    "id": 11,
+                    "name": "Drama",
+                    "slug": "drama",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 341,
+                        "category_id": 11
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy",
+                    "slug": "fantasy",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 341,
+                        "category_id": 14
+                    }
+                },
+                {
+                    "id": 37,
+                    "name": "Shounen",
+                    "slug": "shounen",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 341,
+                        "category_id": 37
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": null
+        },
+        {
+            "id": 342,
+            "name": "Kougekiryoku Zero Kara Hajimeru Kenseitan",
+            "slug": "kougekiryoku-zero-kara-hajimeru-kenseitan",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/kougekiryoku-zero-kara-hajimeru-kenseitan-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>M\u1eb7c d\u00f9 Eugene mang trong m\u00ecnh thi\u00ean ph\u00fa ph\u00f2ng ng\u1ef1, nh\u01b0ng thi\u00ean ph\u00fa t\u1ea5n c\u00f4ng l\u1ea1i b\u1eb1ng 0?! T\u1eeb \u0111\u00f3 anh lu\u00f4n b\u1ecb ch\u00ea c\u01b0\u1eddi v\u00ec s\u1ef1 b\u1ea5t t\u00e0i c\u1ee7a b\u1ea3n th\u00e2n, d\u1eabn \u0111\u1ebfn vi\u1ec7c anh ph\u1ea3i chuy\u1ec3n tr\u01b0\u1eddng nh\u01b0 m\u1ed9t lo\u00e0i sinh v\u1eadt c\u1ee5p \u0111u\u00f4i b\u1ecf ch\u1ea1y. Tuy nhi\u00ean, \u0111\u00e2y c\u0169ng ch\u00ednh l\u00e0 l\u00fac thi\u00ean ph\u00fa ph\u00f2ng ng\u1ef1 \"v\u00f4 d\u1ee5ng\" c\u1ee7a anh \u0111\u01b0\u1ee3c t\u1ecfa s\u00e1ng, khi m\u00e0 anh l\u1ecdt v\u00e0o m\u1eaft xanh c\u1ee7a Qu\u1ef7 V\u01b0\u01a1ng Erinyes, ng\u01b0\u1eddi t\u1eebng th\u1ed1ng tr\u1ecb th\u1ebf gi\u1edbi\u2015\u2015?!<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:53:55.000000Z",
+            "chapters_count": 2,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "category_id": 3
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy",
+                    "slug": "fantasy",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "category_id": 14
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 114,
+                "comic_id": 342,
+                "name": 2,
+                "filename": "kougekiryoku-zero-kara-hajimeru-kenseitan-chap-2",
+                "status": 1,
+                "path": "uploads\/20240521\/06790eb94fc75cfb26e322404c854d9a\/chapter_2",
+                "number_image": "38",
+                "created_at": "2024-05-22T04:53:55.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 343,
+            "name": "Caramal K\u1ef3 Qu\u00e1i",
+            "slug": "caramal-ky-quai",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/caramal-ky-quai-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>Truy\u1ec7n tranh Caramal K\u1ef3 Qu\u00e1i<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:53:58.000000Z",
+            "chapters_count": 13,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 343,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 18,
+                    "name": "Horror",
+                    "slug": "horror",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 343,
+                        "category_id": 18
+                    }
+                },
+                {
+                    "id": 22,
+                    "name": "Manhua",
+                    "slug": "manhua",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 343,
+                        "category_id": 22
+                    }
+                },
+                {
+                    "id": 28,
+                    "name": "Ng\u00f4n T\u00ecnh",
+                    "slug": "ngon-tinh",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 343,
+                        "category_id": 28
+                    }
+                },
+                {
+                    "id": 50,
+                    "name": "Truy\u1ec7n M\u00e0u",
+                    "slug": "truyen-mau",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 343,
+                        "category_id": 50
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 127,
+                "comic_id": 343,
+                "name": 13,
+                "filename": "caramal-ky-quai-chap-1-13",
+                "status": 1,
+                "path": "uploads\/20240520\/f00b82d60bc9688a08506d14b3f53098\/chapter_13",
+                "number_image": "15",
+                "created_at": "2024-05-22T04:53:58.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 344,
+            "name": "Thi\u00ean Ma B\u1ea5m Huy\u1ec7t",
+            "slug": "thien-ma-bam-huyet",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/thien-ma-bam-huyet-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>Truy\u1ec7n tranh Thi\u00ean Ma B\u1ea5m Huy\u1ec7t<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:54:12.000000Z",
+            "chapters_count": 4,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 344,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 23,
+                    "name": "Manhwa",
+                    "slug": "manhwa",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 344,
+                        "category_id": 23
+                    }
+                },
+                {
+                    "id": 50,
+                    "name": "Truy\u1ec7n M\u00e0u",
+                    "slug": "truyen-mau",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 344,
+                        "category_id": 50
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 131,
+                "comic_id": 344,
+                "name": 4,
+                "filename": "thien-ma-bam-huyet-chap-1-4",
+                "status": 1,
+                "path": "uploads\/20240520\/491cdba3dd9a4d6f85e7e612e40de48a\/chapter_4",
+                "number_image": "55",
+                "created_at": "2024-05-22T04:54:12.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 345,
+            "name": "Qu\u1ef7 C\u00f4ng Di L\u1ee5c",
+            "slug": "quy-cong-di-luc",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/quy-cong-di-luc-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>Truy\u1ec7n tranh Qu\u1ef7 C\u00f4ng Di L\u1ee5c \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i MeTruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 MeTruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n Qu\u1ef7 C\u00f4ng Di L\u1ee5c.<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:54:17.000000Z",
+            "chapters_count": 21,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 345,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 23,
+                    "name": "Manhwa",
+                    "slug": "manhwa",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 345,
+                        "category_id": 23
+                    }
+                },
+                {
+                    "id": 50,
+                    "name": "Truy\u1ec7n M\u00e0u",
+                    "slug": "truyen-mau",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 345,
+                        "category_id": 50
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 152,
+                "comic_id": 345,
+                "name": 21,
+                "filename": "quy-cong-di-luc-chap-21",
+                "status": 1,
+                "path": "uploads\/20240521\/e028f48ca7fc2840daad92cdb306c6ab\/chapter_21",
+                "number_image": "77",
+                "created_at": "2024-05-22T04:54:17.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 346,
+            "name": "Nh\u00e2n V\u1eadt Webtoon Na Kang Lim",
+            "slug": "nhan-vat-webtoon-na-kang-lim",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/nhan-vat-webtoon-na-kang-lim-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>Na Kang Lim, nam sinh trung h\u1ecdc b\u00ecnh tr\u01b0\u1eddng r\u1ea5t th\u00edch \u0111\u1ecdc webtoon. M\u1ed9t ng\u00e0y, \u0111\u00e3 c\u00f3 chuy\u1ec7n b\u1ea5t ng\u1edd x\u1ea3y ra, n\u1eef ch\u00ednh t\u1eeb b\u1ed9 webtoon c\u1eadu hay \u0111\u1ecdc \u0111\u00e3 xu\u1ea5t hi\u1ec7n ngo\u00e0i \u0111\u1ee3i th\u1eadt. Nh\u1eefng s\u1ef1 c\u1ed1 trong webtoon khi\u1ebfn c\u00f4 \u1ea5y r\u01a1i v\u00e0o kh\u1ee7ng ho\u1ea3ng, nh\u01b0ng nh\u00e2n v\u1eadt ch\u00ednh l\u1ea1i kh\u00f4ng c\u00f3 \u1edf \u0111\u00e2y \u0111\u1ec3 gi\u1ea3i c\u1ee9u n\u1eef ch\u00ednh! V\u00e0 Kang Lim \u0111\u00e3 tr\u1edf th\u00e0nh nh\u00e2n v\u1eadt ch\u00ednh c\u00f9ng v\u1edbi k\u00ed \u01b0\u1edbc t\u1eeb b\u1ed9 truy\u1ec7n v\u00e0 kh\u1ea3 n\u0103ng du h\u00e0nh th\u1eddi gian \u0111\u1ec3 c\u1ee9u n\u1eef ch\u00ednh<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:54:39.000000Z",
+            "chapters_count": 90,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 346,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "Comedy",
+                    "slug": "comedy",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 346,
+                        "category_id": 6
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy",
+                    "slug": "fantasy",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 346,
+                        "category_id": 14
+                    }
+                },
+                {
+                    "id": 23,
+                    "name": "Manhwa",
+                    "slug": "manhwa",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 346,
+                        "category_id": 23
+                    }
+                },
+                {
+                    "id": 50,
+                    "name": "Truy\u1ec7n M\u00e0u",
+                    "slug": "truyen-mau",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 346,
+                        "category_id": 50
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 242,
+                "comic_id": 346,
+                "name": 90,
+                "filename": "nhan-vat-webtoon-na-kang-lim-chap-1-90",
+                "status": 1,
+                "path": "uploads\/20240517\/e5cde9a23c2ea84b188cf21584ccd395\/chapter_90",
+                "number_image": "36",
+                "created_at": "2024-05-22T04:54:39.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 347,
+            "name": "Nhi\u1ec7m V\u1ee5 Di\u1ec7u K\u1ef3",
+            "slug": "nhiem-vu-dieu-ky",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/nhiem-vu-dieu-ky-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "Kim So Huyn, m\u1ed9t nam sinh trung h\u1ecdc y\u1ebfu \u0111u\u1ed1i \u0111\u1ebfn m\u1ee9c kh\u00f4ng th\u1ec3 m\u1edf mi\u1ec7ng ph\u1ea3n \u0111\u1ed1i b\u1ea5t k\u00ec y\u00eau c\u1ea7u n\u00e0o c\u1ee7a ng\u01b0\u1eddi kh\u00e1c. M\u1ed9i ng\u00e0y \u0111i h\u1ecdc \u0111\u1ec1u l\u00e0 c\u1ef1c h\u00ecnh khi Kim So Huyn \u0111\u00e3 v\u00e0 \u0111ang l\u00e0 n\u1ea1n nh\u00e2n c\u1ee7a b\u1ea1o l\u1ef1c h\u1ecdc \u0111\u01b0\u1eddng. V\u1edbi vi\u1ec7c truy\u1ec7n tranh ph\u00e1t tri\u1ec3n, c\u1eadu m\u01a1 \u01b0\u1edbc r\u1eb1ng b\u1ea3n th\u00e2n s\u1ebd c\u00f3 m\u1ed9t h\u1ec7 th\u1ed1ng \u0111\u1ec3 bi\u1ebfn m\u00ecnh th\u00e0nh m\u1ed9t nh\u00e2n v\u1eadt b\u00e1 \u0111\u1ea1o gi\u1ed1ng nh\u01b0 c\u00e1c nh\u00e2n v\u1eadt trong truy\u1ec7n tranh, v\u00e0 h\u1ec7 th\u1ed1ng xu\u1ea5t hi\u1ec7n th\u1eadt.... Li\u1ec7u h\u1ec7 th\u1ed1ng nhi\u1ec7m v\u1ee5 n\u00e0y c\u00f3 th\u1ec3 bi\u1ebfn Kim So Huyn th\u00e0nh m\u1ed9t nam sinh b\u00e1 \u0111\u1ea1o kh\u00f4ng? C\u00f9ng \u0111\u00f3n xem t\u1ea1i Vlogtruyen nh\u00e9!!M\u1ed9t t\u00e1c ph\u1ea9m \u0111\u1ebfn t\u1eeb t\u00e1c gi\u1ea3 c\u1ee7a H\u1ecdc C\u00e1ch Chi\u1ebfn \u0110\u1ea5u v\u00e0 Ho\u00e1n \u0110\u1ed5i Di\u1ec7u K\u1ef3!",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:56:23.000000Z",
+            "chapters_count": 0,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 347,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "Comedy",
+                    "slug": "comedy",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 347,
+                        "category_id": 6
+                    }
+                },
+                {
+                    "id": 11,
+                    "name": "Drama",
+                    "slug": "drama",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 347,
+                        "category_id": 11
+                    }
+                },
+                {
+                    "id": 23,
+                    "name": "Manhwa",
+                    "slug": "manhwa",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 347,
+                        "category_id": 23
+                    }
+                },
+                {
+                    "id": 32,
+                    "name": "School Life",
+                    "slug": "school-life",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 347,
+                        "category_id": 32
+                    }
+                },
+                {
+                    "id": 50,
+                    "name": "Truy\u1ec7n M\u00e0u",
+                    "slug": "truyen-mau",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 347,
+                        "category_id": 50
+                    }
+                },
+                {
+                    "id": 52,
+                    "name": "Webtoon",
+                    "slug": "webtoon",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 347,
+                        "category_id": 52
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": null
+        },
+        {
+            "id": 348,
+            "name": "Nh\u1ea5t L\u1ef1c Ph\u00e1 Ch\u01b0 Thi\u00ean V\u1ea1n Gi\u1edbi",
+            "slug": "nhat-luc-pha-chu-thien-van-gioi",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/nhat-luc-pha-chu-thien-van-gioi-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>Truy\u1ec7n tranh Nh\u1ea5t L\u1ef1c Ph\u00e1 Ch\u01b0 Thi\u00ean V\u1ea1n Gi\u1edbi \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i MeTruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 MeTruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n Nh\u1ea5t L\u1ef1c Ph\u00e1 Ch\u01b0 Thi\u00ean V\u1ea1n Gi\u1edbi.<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:56:24.000000Z",
+            "chapters_count": 4,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 348,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy",
+                    "slug": "fantasy",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 348,
+                        "category_id": 14
+                    }
+                },
+                {
+                    "id": 22,
+                    "name": "Manhua",
+                    "slug": "manhua",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 348,
+                        "category_id": 22
+                    }
+                },
+                {
+                    "id": 50,
+                    "name": "Truy\u1ec7n M\u00e0u",
+                    "slug": "truyen-mau",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 348,
+                        "category_id": 50
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 246,
+                "comic_id": 348,
+                "name": 4,
+                "filename": "nhat-luc-pha-chu-thien-van-gioi-chap-4",
+                "status": 1,
+                "path": "uploads\/20240521\/0dbeb1a3e378f8a417a84351f108e2c1\/chapter_4",
+                "number_image": "21",
+                "created_at": "2024-05-22T04:56:24.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 349,
+            "name": "Mercy",
+            "slug": "mercy",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/mercy-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>\"500 n\u0103m tr\u01b0\u1edbc, k\u1ebb b\u1ea5t t\u1eed xu\u1ea5t hi\u1ec7n tr\u00ean th\u1ebf gi\u1edbi n\u00e0y.\"<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:56:29.000000Z",
+            "chapters_count": 1,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 349,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 30,
+                    "name": "Psychological",
+                    "slug": "psychological",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 349,
+                        "category_id": 30
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 247,
+                "comic_id": 349,
+                "name": 1,
+                "filename": "mercy-chap-1-1",
+                "status": 1,
+                "path": "uploads\/20240517\/87ed7b2ed0859f9ac282e353f9fa63ea\/chapter_1",
+                "number_image": "33",
+                "created_at": "2024-05-22T04:56:29.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 350,
+            "name": "Isshou Senkin",
+            "slug": "isshou-senkin",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/isshou-senkin-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>M\u1ed9t \u0111\u1ea5u s\u0129 th\u1ea5t nghi\u1ec7p, m\u1ed9t yakuza v\u00e0 m\u1ed9t \u1ea3 c\u1edbm b\u1ea9n c\u00f9ng nhau t\u1ed5 ch\u1ee9c m\u1ed9t \u0111\u1ea5u tr\u01b0\u1eddng ng\u1ea7m gi\u00e0nh ri\u00eang cho ph\u1ee5 n\u1eef v\u1edbi gi\u1ea5c m\u01a1 nhanh ch\u00f3ng l\u00e0m gi\u00e0u. \u0110\u1ec3 \u0111\u1ea5u tr\u01b0\u1eddng th\u00e0nh c\u00f4ng, h\u1ecd \u0111\u00e3 t\u00ecm \u0111\u1ebfn m\u1ed9t c\u00f4 g\u00e1i d\u1ec5 th\u01b0\u01a1ng nh\u01b0ng c\u1ef1c k\u00ec nguy hi\u1ec3m \u0111\u1ec3 l\u00e0m ng\u00f4i sao cho gi\u1ea3i \u0111\u1ea5u... Chuy\u1ec7n g\u00ec s\u1ebd x\u1ea3y ra ti\u1ebfp theo, h\u00e3y theo d\u00f5i b\u1ed9 truy\u1ec7n nh\u00e9<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:56:32.000000Z",
+            "chapters_count": 6,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 350,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 24,
+                    "name": "Martial Arts",
+                    "slug": "martial-arts",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 350,
+                        "category_id": 24
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 253,
+                "comic_id": 350,
+                "name": 6,
+                "filename": "isshou-senkin-chap-5-6",
+                "status": 1,
+                "path": "uploads\/20240521\/c33149153fd37a3cb8f9a4b12986975f\/chapter_6",
+                "number_image": "17",
+                "created_at": "2024-05-22T04:56:32.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 351,
+            "name": "T\u00f4i \u0110\u00e3 Tr\u1edf Th\u00e0nh B\u1ea1n G\u00e1i C\u1ee7a Nam Ch\u00ednh",
+            "slug": "toi-da-tro-thanh-ban-gai-cua-nam-chinh",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/toi-da-tro-thanh-ban-gai-cua-nam-chinh-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p><a href=\"metruyen.online>Truy\u1ec7n tranh<\/a> <a href=\"metruyen.online>T\u00f4i \u0110\u00e3 Tr\u1edf Th\u00e0nh B\u1ea1n G\u00e1i C\u1ee7a Nam Ch\u00ednh<\/a> \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 ch\u00fang m\u00ecnh ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n <a href=\"metruyen.online><strong>T\u00f4i \u0110\u00e3 Tr\u1edf Th\u00e0nh B\u1ea1n G\u00e1i C\u1ee7a Nam Ch\u00ednh<\/strong><\/a><strong>.<\/strong><\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:56:39.000000Z",
+            "chapters_count": 2,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 351,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy",
+                    "slug": "fantasy",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 351,
+                        "category_id": 14
+                    }
+                },
+                {
+                    "id": 31,
+                    "name": "Romance",
+                    "slug": "romance",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 351,
+                        "category_id": 31
+                    }
+                },
+                {
+                    "id": 35,
+                    "name": "Shoujo",
+                    "slug": "shoujo",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 351,
+                        "category_id": 35
+                    }
+                },
+                {
+                    "id": 50,
+                    "name": "Truy\u1ec7n M\u00e0u",
+                    "slug": "truyen-mau",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 351,
+                        "category_id": 50
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 255,
+                "comic_id": 351,
+                "name": 0.2,
+                "filename": "toi-da-tro-thanh-ban-gai-cua-nam-chinh-chap-01-02",
+                "status": 1,
+                "path": "uploads\/20240510\/e76cd10bd0f2d3d3091aa7b5a707ee51\/chapter_0.2",
+                "number_image": "19",
+                "created_at": "2024-05-22T04:56:39.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 352,
+            "name": "N\u1eef Hi\u1ec7p S\u0129 Goblin",
+            "slug": "nu-hiep-si-goblin",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/nu-hiep-si-goblin-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>H\u00e0nh tr\u00ecnh phi\u00eau l\u01b0u c\u1ee7a n\u1eef k\u1ef5 s\u0129 v\u00e0 t\u00ean goblin b\u1ecb ho\u00e1n \u0111\u1ed5i c\u01a1 th\u1ec3 sau m\u1ed9t v\u1ee5 tai n\u1ea1n v\u00e0 ph\u00e9p m\u00e0u c\u1ee7a b\u00e0 th\u1ea7n d\u1edf h\u01a1i n\u00e0o \u0111\u00f3.<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:56:43.000000Z",
+            "chapters_count": 12,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 352,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 352,
+                        "category_id": 3
+                    }
+                },
+                {
+                    "id": 13,
+                    "name": "Ecchi",
+                    "slug": "ecchi",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 352,
+                        "category_id": 13
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy",
+                    "slug": "fantasy",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 352,
+                        "category_id": 14
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 267,
+                "comic_id": 352,
+                "name": 12,
+                "filename": "nu-hiep-si-goblin-chap-1-12",
+                "status": 1,
+                "path": "uploads\/20240510\/ad2c46e5cf7e8e12bc6554ff007b2673\/chapter_12",
+                "number_image": "24",
+                "created_at": "2024-05-22T04:56:43.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 353,
+            "name": "Xuy\u00ean V\u00e0o Teenfic L\u00e0m Th\u1ecb N\u1eef",
+            "slug": "xuyen-vao-teenfic-lam-thi-nu",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/xuyen-vao-teenfic-lam-thi-nu-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>truy\u1ec7n Xuy\u00ean V\u00e0o Teenfic L\u00e0m Th\u1ecb N\u1eef Ch\u00e0o m\u1eebng \u0111\u1ed9c gi\u1ea3 th\u00e2n m\u1ebfn c\u1ee7a MeTruyen, Xuy\u00ean V\u00e0o Teenfic L\u00e0m Th\u1ecb N\u1eef l\u00e0 b\u1ed9 truy\u1ec7n tranh h\u1ea5p d\u1eabn m\u00e0 MeTruyen mu\u1ed1n mang \u0111\u1ebfn cho c\u00e1c b\u1ea1n. \u0110\u00e2y l\u00e0 b\u1ed9 truy\u1ec7n tranh n\u1eb1m trong th\u1ec3 lo\u1ea1i tr\u00ean website c\u1ee7a ch\u00fang t\u00f4i.<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:56:58.000000Z",
+            "chapters_count": 29,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 353,
+                        "category_id": 1
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 4,
+                    "name": "Dana LEE",
+                    "slug": "dana-lee",
+                    "created_at": "2024-05-22T04:56:58.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 353,
+                        "author_id": 4
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 296,
+                "comic_id": 353,
+                "name": 28,
+                "filename": "xuyen-vao-teenfic-lam-thi-nu-chap-0-28",
+                "status": 1,
+                "path": "uploads\/20240509\/8033b060d6d6c4a35c5faa2ff714fe92\/chapter_28",
+                "number_image": "31",
+                "created_at": "2024-05-22T04:56:58.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 354,
+            "name": "(Cbunu) In The Deep",
+            "slug": "cbunu-in-the-deep",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/cbunu-in-the-deep-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>truy\u1ec7n (Cbunu) In The Deep Ch\u00e0o m\u1eebng \u0111\u1ed9c gi\u1ea3 th\u00e2n m\u1ebfn c\u1ee7a MeTruyen, (Cbunu) In The Deep l\u00e0 b\u1ed9 truy\u1ec7n tranh h\u1ea5p d\u1eabn m\u00e0 MeTruyen mu\u1ed1n mang \u0111\u1ebfn cho c\u00e1c b\u1ea1n. \u0110\u00e2y l\u00e0 b\u1ed9 truy\u1ec7n tranh n\u1eb1m trong th\u1ec3 lo\u1ea1i tr\u00ean website c\u1ee7a ch\u00fang t\u00f4i.<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:57:29.000000Z",
+            "chapters_count": 5,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 354,
+                        "category_id": 1
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 2,
+                    "name": "Osaki Isle",
+                    "slug": "osaki-isle",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Kobota Misuho",
+                    "slug": "kobota-misuho",
+                    "created_at": "2024-05-22T04:53:55.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 342,
+                        "author_id": 3
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 301,
+                "comic_id": 354,
+                "name": 5,
+                "filename": "cbunu-in-the-deep-chap-1-5",
+                "status": 1,
+                "path": "uploads\/20240509\/204b03852a1b5eef93819c5f57acc651\/chapter_5",
+                "number_image": "68",
+                "created_at": "2024-05-22T04:57:29.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 355,
+            "name": "Ch\u1ee9c Nghi\u1ec7p [Th\u1ea9m \u0110\u1ecbnh] Kh\u00f4ng Thu\u1eadn L\u1ee3i Nh\u01b0ng Th\u1ef1c Ra L\u1ea1i L\u00e0 K\u1ebb M\u1ea1nh Nh\u1ea5t",
+            "slug": "chuc-nghiep-tham-dinh-khong-thuan-loi-nhung-thuc-ra-lai-la-ke-manh-nhat",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/chuc-nghiep-tham-dinh-khong-thuan-loi-nhung-thuc-ra-lai-la-ke-manh-nhat-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>truy\u1ec7n Ch\u1ee9c Nghi\u1ec7p [Th\u1ea9m \u0110\u1ecbnh] Kh\u00f4ng Thu\u1eadn L\u1ee3i Nh\u01b0ng Th\u1ef1c Ra L\u1ea1i L\u00e0 K\u1ebb M\u1ea1nh Nh\u1ea5t Ch\u00e0o m\u1eebng \u0111\u1ed9c gi\u1ea3 th\u00e2n m\u1ebfn c\u1ee7a MeTruyen, Ch\u1ee9c Nghi\u1ec7p [Th\u1ea9m \u0110\u1ecbnh] Kh\u00f4ng Thu\u1eadn L\u1ee3i Nh\u01b0ng Th\u1ef1c Ra L\u1ea1i L\u00e0 K\u1ebb M\u1ea1nh Nh\u1ea5t l\u00e0 b\u1ed9 truy\u1ec7n tranh h\u1ea5p d\u1eabn m\u00e0 MeTruyen mu\u1ed1n mang \u0111\u1ebfn cho c\u00e1c b\u1ea1n. \u0110\u00e2y l\u00e0 b\u1ed9 truy\u1ec7n tranh n\u1eb1m trong th\u1ec3 lo\u1ea1i Action, Adventure, Drama, Fantasy, Shounen tr\u00ean website c\u1ee7a ch\u00fang t\u00f4i.<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:57:34.000000Z",
+            "chapters_count": 117,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 355,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 355,
+                        "category_id": 3
+                    }
+                },
+                {
+                    "id": 11,
+                    "name": "Drama",
+                    "slug": "drama",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 355,
+                        "category_id": 11
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy",
+                    "slug": "fantasy",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 355,
+                        "category_id": 14
+                    }
+                },
+                {
+                    "id": 37,
+                    "name": "Shounen",
+                    "slug": "shounen",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 355,
+                        "category_id": 37
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 5,
+                    "name": "\u0110ang C\u1eadp Nh\u1eadt",
+                    "slug": "dang-cap-nhat",
+                    "created_at": "2024-05-22T04:57:34.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 355,
+                        "author_id": 5
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 418,
+                "comic_id": 355,
+                "name": 64,
+                "filename": "chuc-nghiep-tham-dinh-khong-thuan-loi-nhung-thuc-ra-lai-la-ke-manh-nhat-chap-64",
+                "status": 1,
+                "path": "uploads\/20240520\/bf22d620a155e601a5cc41469c37a189\/chapter_64",
+                "number_image": "31",
+                "created_at": "2024-05-22T04:57:34.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 356,
+            "name": "Hu\u1ea5n Luy\u1ec7n Vi\u00ean Murim Thi\u00ean T\u00e0i",
+            "slug": "huan-luyen-vien-murim-thien-tai",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/huan-luyen-vien-murim-thien-tai-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>Truy\u1ec7n tranh Hu\u1ea5n Luy\u1ec7n Vi\u00ean Murim Thi\u00ean T\u00e0i \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i MeTruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 MeTruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n Hu\u1ea5n Luy\u1ec7n Vi\u00ean Murim Thi\u00ean T\u00e0i.<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:59:40.000000Z",
+            "chapters_count": 8,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 356,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 23,
+                    "name": "Manhwa",
+                    "slug": "manhwa",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 356,
+                        "category_id": 23
+                    }
+                },
+                {
+                    "id": 50,
+                    "name": "Truy\u1ec7n M\u00e0u",
+                    "slug": "truyen-mau",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 356,
+                        "category_id": 50
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 5,
+                    "name": "\u0110ang C\u1eadp Nh\u1eadt",
+                    "slug": "dang-cap-nhat",
+                    "created_at": "2024-05-22T04:57:34.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 356,
+                        "author_id": 5
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "\u0110ang c\u1eadp nh\u1eadt",
+                    "slug": "dang-cap-nhat",
+                    "created_at": "2024-05-22T04:59:40.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 356,
+                        "author_id": 6
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 426,
+                "comic_id": 356,
+                "name": 8,
+                "filename": "huan-luyen-vien-murim-thien-tai-chap-8",
+                "status": 1,
+                "path": "uploads\/20240515\/69df506de81a17905d6323e6de4aa090\/chapter_8",
+                "number_image": "75",
+                "created_at": "2024-05-22T04:59:40.000000Z",
+                "updated_at": null
+            }
+        },
+        {
+            "id": 357,
+            "name": "Thanh Ki\u1ebfm B\u00e1o Th\u00f9",
+            "slug": "thanh-kiem-bao-thu",
+            "status": 0,
+            "view": 0,
+            "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/thanh-kiem-bao-thu-thumb.jpg",
+            "sub_docquyen": 0,
+            "content": "<p>V\u00e0o ng\u00e0y Nh\u00e0 v\u00f4 \u0111\u1ecbch Kendo Shiho quy\u1ebft \u0111\u1ecbnh gi\u00fap \u0111\u1ee1 ng\u01b0\u1eddi m\u1eb9 \u0111\u01a1n th\u00e2n c\u1ee7a m\u00ecnh \u0111i\u1ec1u h\u00e0nh m\u1ed9t nh\u00e0 h\u00e0ng Gukbap, anh nh\u1eadn \u0111\u01b0\u1ee3c tin em g\u00e1i m\u00ecnh, Shiyeon, \u0111\u00e3 t\u1ef1 t\u1eed. Trong \u0111\u00e1m tang, Shiho nh\u1eadn ra c\u00f3 \u0111i\u1ec1u g\u00ec \u0111\u00f3 kh\u00f4ng \u1ed5n. \u0110\u00f3 kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t v\u1ee5 t\u1ef1 s\u00e1t m\u00e0 l\u00e0 c\u00f4 \u1ea5y b\u1ecb s\u00e1t h\u1ea1i. \u0110\u1ec3 t\u00ecm ra s\u1ef1 th\u1eadt v\u00e0 tr\u1ea3 th\u00f9 cho c\u00e1i ch\u1ebft c\u1ee7a em g\u00e1i m\u00ecnh, Shiho l\u1ea1i gi\u01a1 ki\u1ebfm l\u00ean m\u1ed9t l\u1ea7n n\u1eefa \u0111\u1ec3 b\u1eaft \u0111\u1ea7u cu\u1ed9c chi\u1ebfn c\u1ee7a ri\u00eang m\u00ecnh.<\/p>",
+            "created_at": null,
+            "updated_at": "2024-05-22T04:59:51.000000Z",
+            "chapters_count": 10,
+            "status_label": "COMPLETED",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Action",
+                    "slug": "action",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 357,
+                        "category_id": 1
+                    }
+                },
+                {
+                    "id": 23,
+                    "name": "Manhwa",
+                    "slug": "manhwa",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 357,
+                        "category_id": 23
+                    }
+                },
+                {
+                    "id": 50,
+                    "name": "Truy\u1ec7n M\u00e0u",
+                    "slug": "truyen-mau",
+                    "description": null,
+                    "content": null,
+                    "status": 1,
+                    "created_at": "2024-05-21T04:38:01.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 357,
+                        "category_id": 50
+                    }
+                }
+            ],
+            "authors": [
+                {
+                    "id": 5,
+                    "name": "\u0110ang C\u1eadp Nh\u1eadt",
+                    "slug": "dang-cap-nhat",
+                    "created_at": "2024-05-22T04:57:34.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 357,
+                        "author_id": 5
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "\u0110ang c\u1eadp nh\u1eadt",
+                    "slug": "dang-cap-nhat",
+                    "created_at": "2024-05-22T04:59:40.000000Z",
+                    "updated_at": null,
+                    "pivot": {
+                        "comic_id": 357,
+                        "author_id": 6
+                    }
+                }
+            ],
+            "latest_chapter": {
+                "id": 436,
+                "comic_id": 357,
+                "name": 10,
+                "filename": "thanh-kiem-bao-thu-chap-5-10",
+                "status": 1,
+                "path": "uploads\/20240514\/4a9c6a06b72c95a6858ef21f651f10fa\/chapter_10",
+                "number_image": "68",
+                "created_at": "2024-05-22T04:59:51.000000Z",
+                "updated_at": null
+            }
+        }
+    ],
+    "params": {
+        "api_key": "test",
+        "brand": "MeTruyen",
+        "domain_link": "metruyen.online"
+    }
+}

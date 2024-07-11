@@ -1,0 +1,836 @@
+{
+    "status": "success",
+    "message": "Success",
+    "data": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": 1,
+                "name": " ZINGNIZE",
+                "slug": "zingnize",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/zingnize-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>C\u00e2u chuy\u1ec7n l\u1ecbch s\u1eed v\u1ec1 3 ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u1ec1u c\u00f3 t\u00ean l\u00e0 Jinnai: Kousaka JInnai, Tobisawa Jinanai, Shouji Jinnai s\u1ed1ng trong th\u1eddi Edo. C\u00e2u chuy\u1ec7n b\u1eaft \u0111\u1ea7u khi s\u1ee9 gi\u1ea3 c\u1ee7a Okubo Iwaminokami Nagayasu \u0111\u1ebfn g\u1eb7p t\u00ean tr\u1ed9m si\u00eau \u0111\u1eb3ng Kousaka Jinnai \u0111\u1ec3 nh\u1edd h\u1eafn gi\u00fap \u0111\u1ea9y l\u00f9i b\u0103ng c\u01b0\u1edbp c\u1ee7a Fuma Kotaro.<\/p>",
+                "created_at": "2024-05-23T07:19:52.000000Z",
+                "updated_at": "2024-05-23T07:19:53.000000Z",
+                "api_updated_at": "2024-05-23 07:19:53",
+                "chapters_count": 41,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Kingdom - V\u01b0\u01a1ng Gi\u1ea3 Thi\u00ean H\u1ea1",
+                "slug": "kingdom-vuong-gia-thien-ha",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/kingdom-vuong-gia-thien-ha-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>L\u00e2y b\u1ed1i c\u1ea3nh th\u1eddi Chi\u1ebfn Qu\u1ed1c, n\u0103m 245 tr\u01b0\u1edbc C\u00f4ng Nguy\u00ean. Truy\u1ec7n k\u1ec3 v\u1ec1 m\u1ed9t c\u1eadu b\u00e9 t\u1eeb th\u00e2n ph\u1eadn ng\u01b0\u1eddi \u1edf tr\u1edf th\u00e0nh m\u1ed9t v\u1ecb d\u0169ng t\u01b0\u1edbng. \u0110\u00e2y l\u00e0 b\u1ed9 truy\u1ec7n \u0111\u00e3 gi\u00e0nh gi\u1ea3i th\u01b0\u1edfng Tezuka Osamu Cultural l\u1ea7n th\u1ee9 17 v\u00e0o n\u0103m 2013<\/p>",
+                "created_at": "2024-05-23T07:20:23.000000Z",
+                "updated_at": "2024-05-23T07:20:25.000000Z",
+                "api_updated_at": "2024-05-23 07:20:25",
+                "chapters_count": 797,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "V\u0169 Trang Si\u00eau Nhi\u00ean",
+                "slug": "dandadan",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/dandadan-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>\u0110ang c\u1eadp nh\u1eadt<\/p>",
+                "created_at": "2024-05-23T07:30:36.000000Z",
+                "updated_at": "2024-05-23T07:30:38.000000Z",
+                "api_updated_at": "2024-05-23 07:30:38",
+                "chapters_count": 159,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "T\u01b0 M\u00e3 Song Hi\u1ec7p",
+                "slug": "tu-ma-song-hiep",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/tu-ma-song-hiep-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Truy\u1ec7n tranh T\u01b0 M\u00e3 Song Hi\u1ec7p \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i metruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 metruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n T\u01b0 M\u00e3 Song Hi\u1ec7p.<\/p>",
+                "created_at": "2024-05-23T07:32:39.000000Z",
+                "updated_at": "2024-05-23T07:32:40.000000Z",
+                "api_updated_at": "2024-05-23 07:32:40",
+                "chapters_count": 36,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "T\u00f4i C\u0169ng Mu\u1ed1n L\u00e0m M\u1ee3 \u00dat",
+                "slug": "toi-cung-muon-lam-mo-ut",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/toi-cung-muon-lam-mo-ut-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>N\u1eef ph\u00f3ng vi\u00ean xinh \u0111\u1eb9p b\u00e1o t\u00e0i ch\u00ednh kinh t\u1ebf Tr\u1ecbnh Th\u01b0 \u00dd v\u1eady m\u00e0 l\u1ea1i b\u1ecb t\u00ean tra nam l\u1eeba ngo\u1ea1i t\u00ecnh? Sao c\u00f3 th\u1ec3 m\u1eb7c k\u1ec7 cho t\u00ean tra nam c\u00f9ng v\u1edbi \u201cb\u00e9 ba\u201d nh\u1ee1n nh\u01a1 vui v\u1ebb nh\u01b0 v\u1eady \u0111\u01b0\u1ee3c! Trong gi\u00e2y ph\u00fat nh\u00ecn th\u1ea5y c\u1eadu \u00fat c\u1ee7a \u201cb\u00e9 ba\u201d tr\u00ean chi\u1ebfc Roll-Royce sang ch\u1ea3nh, Tr\u1ecbnh Th\u01b0 \u00fd b\u1ed7ng n\u1ea3y l\u00ean m\u1ed9t k\u1ebf ho\u1ea1ch. Kh\u00f4ng ph\u1ea3i t\u00ean tra nam th\u00fai kia mu\u1ed1n gi\u1ea3m b\u1edbt \u0111i 20 n\u0103m ph\u1ea5n \u0111\u1ea5u sao? \u0110\u01b0\u1ee3c th\u00f4i, v\u1eady t\u00f4i s\u1ebd tr\u1edf th\u00e0nh m\u1ee3 \u00fat c\u1ee7a anh v\u00e0 \u201cb\u00e9 ba\u201d!\u2026\u2026<\/p>",
+                "created_at": "2024-05-23T07:33:07.000000Z",
+                "updated_at": "2024-05-23T07:33:09.000000Z",
+                "api_updated_at": "2024-05-23 07:33:09",
+                "chapters_count": 28,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": "Th\u00f4n Ph\u1ec7 Thi\u00ean Ma",
+                "slug": "thon-phe-thien-ma",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/thon-phe-thien-ma-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Truy\u1ec7n tranh Th\u00f4n Ph\u1ec7 Thi\u00ean Ma \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i metruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 metruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n Th\u00f4n Ph\u1ec7 Thi\u00ean Ma.<\/p>",
+                "created_at": "2024-05-23T07:33:30.000000Z",
+                "updated_at": "2024-05-23T07:33:31.000000Z",
+                "api_updated_at": "2024-05-23 07:33:31",
+                "chapters_count": 1,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Th\u1ee3 R\u00e8n Huy\u1ec1n Tho\u1ea1i",
+                "slug": "tho-ren-huyen-thoai",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/tho-ren-huyen-thoai-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Mang trong ng\u01b0\u1eddi m\u1ed9t cu\u1ed9c \u0111\u1eddi b\u1ea5t h\u1ea1nh, Shin Youngwoo b\u1ea5y gi\u1edd ph\u1ea3i x\u00fac \u0111\u1ea5t v\u00e0 b\u1ed1c g\u1ea1ch t\u1ea1i nh\u1eefng c\u00f4ng tr\u00ecnh x\u00e2y d\u1ef1ng. C\u1eadu th\u1eadm ch\u00ed ph\u1ea3i lao \u0111\u1ed9ng ch\u00e2n tay trong m\u1ed9t tr\u00f2 ch\u01a1i th\u1ef1c t\u1ebf \u1ea3o c\u00f3 t\u00ean l\u00e0 Vi\u00ean M\u00e3n Gi\u1edbi! Tuy nhi\u00ean, v\u1eadn may du nh\u1eadp v\u00e0o cu\u1ed9c \u0111\u1eddi v\u00f4 v\u1ecdng c\u1ee7a Young Woo. Nh\u00e2n v\u1eadt Grid c\u1ee7a c\u1eadu, trong m\u1ed9t nhi\u1ec7m v\u1ee5 \u0111\u00e3 ph\u00e1t hi\u1ec7n ra \u0110\u1ed9ng K\u1ebft B\u1eafc. Trong n\u01a1i \u1ea5y, Young Woo \u0111\u00e3 v\u00f4 t\u00ecnh t\u00ecm \u0111\u01b0\u1ee3c \"B\u1ea3o Th\u01b0 c\u1ee7a Pagma\". V\u00e0 \u0111\u00f3 l\u00e0 ng\u00e0y \u0111\u00e1nh d\u1ea5u cho s\u1ef1 ra \u0111\u1eddi c\u1ee7a m\u1ed9t huy\u1ec1n tho\u1ea1i. *** \u0110\u00e2y ch\u00ednh l\u00e0 c\u00e2u chuy\u1ec7n v\u1ec1 chuy\u1ebfn phi\u00eau l\u01b0u c\u1ee7a m\u1ed9t ch\u00e0ng trai \"v\u00f4 t\u00e0i, l\u1eafm t\u1eadt\" tr\u00ean b\u01b0\u1edbc \u0111\u01b0\u1eddng chinh ph\u1ee5c nh\u1eefng th\u00e0nh t\u1ef1u c\u1ee7a \u0111\u1eddi m\u00ecnh. V\u00e0 h\u01a1n th\u1ebf n\u1eefa, \u0111\u00e2y c\u0169ng ch\u00ednh l\u00e0 h\u00e0nh tr\u00ecnh c\u1ee7a m\u1ed9t c\u1eadu b\u00e9 g\u1eaft g\u1ecfng b\u1ea5t m\u00e3n v\u1edbi \u0111\u1eddi, \u0111\u1ee9a tr\u1ebb \u00edch k\u1ef7 ch\u1ec9 bi\u1ebft ngh\u0129 cho b\u1ea3n th\u00e2n m\u00ecnh. Tr\u1edf th\u00e0nh m\u1ed9t ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng bi\u1ebft lo l\u1eafng, th\u01b0\u01a1ng y\u00eau v\u00e0 t\u00edn nhi\u1ec7m v\u1edbi m\u1ecdi ng\u01b0\u1eddi xung quanh.<\/p>",
+                "created_at": "2024-05-23T07:33:32.000000Z",
+                "updated_at": "2024-05-23T07:33:33.000000Z",
+                "api_updated_at": "2024-05-23 07:33:33",
+                "chapters_count": 233,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "name": "Thi\u00ean T\u00e0i B\u00f3ng \u0110\u00e1 Ti\u1ec1n \u0110\u1ea1o S\u1ed1 1",
+                "slug": "tien-dao-so-1",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/tien-dao-so-1-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>T\u00ean kh\u00e1c: Blue Lock Yoichi Isagi \u0111\u00e3 b\u1ecf l\u1ee1 c\u01a1 h\u1ed9i tham d\u1ef1 gi\u1ea3i Cao Trung to\u00e0n qu\u1ed1c do \u0111\u00e3 chuy\u1ec1n cho \u0111\u1ed3ng \u0111\u1ed9i thay&nbsp;v\u00ec t\u1ef1 th\u00e2n m\u00ecnh d\u1ee9t \u0111i\u1ec3m. C\u1eadu l\u00e0 m\u1ed9t trong 300 ch\u00e2n s\u00fat U-18 \u0111\u01b0\u1ee3c tuy\u1ec3n ch\u1ecdn b\u1edfi Jinpachi Ego, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u01b0\u1ee3c Hi\u1ec7p H\u1ed9i&nbsp;B\u00f3ng \u0110\u00e1 Nh\u1eadt B\u1ea3n thu\u00ea sau h\u1ed3i FIFA World Cup n\u0103m 2018, nh\u1eb1m d\u1eabn d\u1eaft Nh\u1eadt B\u1ea3n v\u00f4 \u0111\u1ecbch&nbsp;World Cup b\u1eb1ng c\u00e1ch ti\u00eau di\u1ec7t n\u1ec1n b\u00f3ng \u0111\u00e1 Nh\u1eadt B\u1ea3n. K\u1ebf ho\u1ea1ch c\u1ee7a Ego g\u1ed3m vi\u1ec7c c\u00f4 l\u1eadp 300 tay s\u00fat trong m\u1ed9t nh\u00e0 ng\u1ee5c - d\u01b0\u1edbi m\u1ed9t t\u1ed5 ch\u1ee9c v\u1edbi t\u00ean g\u1ecdi l\u00e0 \"Blue Lock\", v\u1edbi m\u1ee5c ti\u00eau l\u00e0 t\u1ea1o ra ch\u00e2n s\u00fat \"t\u1ef1 ph\u1ee5\" nh\u1ea5t th\u1ebf gi\u1edbi, \u0111i\u1ec1u m\u00e0 n\u1ec1n b\u00f3ng \u0111\u00e1 Nh\u1eadt B\u1ea3n c\u00f2n thi\u1ebfu.<\/p>",
+                "created_at": "2024-05-23T07:36:29.000000Z",
+                "updated_at": "2024-05-23T07:36:31.000000Z",
+                "api_updated_at": "2024-05-23 07:36:31",
+                "chapters_count": 263,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Thi\u00ean Kim Gi\u00e0u C\u00f3 Ph\u00e1t \u0110i\u00ean Sau Khi T\u00e1i Sinh",
+                "slug": "thien-kim-giau-co-phat-dien-sau-khi-tai-sinh",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/thien-kim-giau-co-phat-dien-sau-khi-tai-sinh-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Trong ng\u1ecdn l\u1eeda, n\u00e0ng c\u00f3 th\u1ec3 th\u1ea5y r\u00f5 s\u1ef1 \u1ea5m \u00e1p v\u00e0 l\u1ea1nh l\u1ebdo trong l\u00f2ng ng\u01b0\u1eddi, khi tr\u1edf v\u1ec1 t\u1eeb t\u00e1i sinh, n\u00e0ng nh\u1ea5t \u0111\u1ecbnh s\u1ebd \u0111\u1ea3o ng\u01b0\u1ee3c cu\u1ed9c s\u1ed1ng \u1ea3m \u0111\u1ea1m c\u1ee7a m\u00ecnh! \u0110\u00e1nh nhau v\u1edbi c\u00f4 g\u00e1i c\u1eb7n b\u00e3, ph\u00e1 v\u1ee1 t\u00ecnh c\u1ea3m gia \u0111\u00ecnh, con g\u00e1i c\u1ee7a gia \u0111\u00ecnh gi\u00e0u c\u00f3 nh\u00e0 h\u1ecd B\u1ea1ch tr\u1ef1c ti\u1ebfp gi\u1ebft ng\u01b0\u1eddi \u0111i\u00ean cu\u1ed3ng. H\u1ecfi c\u00f4 \u1ea5y t\u1ea1i sao c\u00f4 \u1ea5y l\u1ea1i ki\u00eau ng\u1ea1o nh\u01b0 v\u1eady, m\u1ed9t ng\u01b0\u1eddi ch\u1eefa l\u00e0nh th\u1ea7n k\u1ef3, m\u1ed9t \u00f4ng ch\u1ee7 hacker, m\u1ed9t thi\u00ean t\u00e0i to\u00e1n h\u1ecdc... T\u1ea5t c\u1ea3 \u0111\u1ec1u l\u00e0 gi\u1ea3 trang c\u1ee7a c\u00f4, h\u01a1n n\u1eefa c\u00f4 v\u1eabn l\u00e0 ng\u00f4i sao c\u1ee7a nh\u00e0 h\u1ecd L\u1ee5c trong l\u00f2ng.<\/p>",
+                "created_at": "2024-05-23T07:39:45.000000Z",
+                "updated_at": "2024-05-23T07:39:46.000000Z",
+                "api_updated_at": "2024-05-23 07:39:46",
+                "chapters_count": 36,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "name": "Thi\u00ean Kim \u0110\u1ed9c Phi Tr\u1ecdng Sinh",
+                "slug": "thien-kim-doc-phi-trong-sinh",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/thien-kim-doc-phi-trong-sinh-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Truy\u1ec7n tranh Thi\u00ean Kim \u0110\u1ed9c Phi Tr\u1ecdng Sinh \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i metruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 metruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n Thi\u00ean Kim \u0110\u1ed9c Phi Tr\u1ecdng Sinh.<\/p>",
+                "created_at": "2024-05-23T07:40:13.000000Z",
+                "updated_at": "2024-05-23T07:40:14.000000Z",
+                "api_updated_at": "2024-05-23 07:40:14",
+                "chapters_count": 32,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "name": "Th\u00e1nh N\u1eef Gi\u1ea3 M\u1ea1o Kh\u00f4ng Mu\u1ed1n Ch\u1ebft",
+                "slug": "thanh-nu-gia-mao-khong-muon-chet",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/thanh-nu-gia-mao-khong-muon-chet-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Ch\u1ec9 m\u1ed9t kho\u1ea3nh kh\u1eafc, t\u00f4i \u0111\u00e3 r\u01a1i xu\u1ed1ng v\u1ef1c th\u1eb3m. V\u1ecb th\u00e1nh n\u1eef th\u1eadt s\u1ef1 \u0111\u00e3 xu\u1ea5t hi\u1ec7n v\u00e0 t\u00f4i, Alicia, th\u00e1nh n\u1eef hi\u1ec7n t\u1ea1i b\u1ecb xem l\u00e0 m\u1ee5 ph\u00f9 th\u1ee7y.\u201cTh\u1ea7n linh \u01a1i, n\u1ebfu c\u00f3 th\u1ec3 quay tr\u1edf l\u1ea1i, t\u00f4i s\u1ebd kh\u00f4ng y\u00eau m\u1ed9t ai, t\u00f4i s\u1ebd kh\u00f4ng bao gi\u1edd c\u1ed1ng hi\u1ebfn cho b\u1ea5t c\u1ee9 ai n\u1eefa!\u201dM\u1ed9t \u0111i\u1ec1u k\u1ef3 di\u1ec7u \u0111\u00e3 x\u1ea3y ra, t\u00f4i \u0111\u00e3 quay l\u1ea1i ng\u00e0y tr\u01b0\u1edbc khi l\u1eddi ti\u00ean tri v\u1ec1 th\u00e1nh n\u1eef \u0111\u01b0\u1ee3c \u0111\u01b0a ra.\u201cTr\u01b0\u1edbc khi t\u00f4i tr\u00fat h\u01a1i th\u1edf cu\u1ed1i c\u00f9ng, t\u00f4i s\u1ebd d\u1eabn c\u00e1c ng\u01b0\u1eddi \u0111\u1ebfn s\u1ef1 h\u1ee7y di\u1ec7t th\u1eadt s\u1ef1\u201dT\u00f4i \u0111\u00e3 \u0111i ng\u01b0\u1ee3c l\u1ea1i \u0111i\u1ec1u b\u1ecdn h\u1ecd mu\u1ed1n v\u00e0 tr\u1edf th\u00e0nh n\u1eef tu trong tu vi\u1ec7n \u0111\u1ec3 kh\u00f4ng th\u00e0nh th\u00e1nh n\u1eef\u2026\u201cV\u00ec em, t\u00f4i s\u1ebd l\u00e0m m\u1ecdi th\u1ee9\u201dEdwin, m\u1ed9t linh m\u1ee5c t\u1ea1i tu vi\u1ec7n, ng\u01b0\u1eddi \u0111\u00e3 th\u1ec1 s\u1ebd m\u00e3i m\u00e3i trong s\u1ea1ch v\u1edbi ch\u00faa \u0111\u00e3 n\u00f3i nh\u01b0 v\u1eady.\u201c\u0110\u00e2y l\u00e0 l\u1ea7n \u0111\u1ea7u t\u00f4i c\u1ea3m nh\u1eadn \u0111\u01b0\u1ee3c c\u1ea3m x\u00fac n\u00e0y. N\u00f3 kh\u00f4ng trong s\u1ea1ch v\u00e0 r\u1ea5t b\u1ea9n th\u1ec9u\u2026\u201dEdwin s\u1eb5n s\u00e0ng b\u1ecf l\u1ea1i t\u1ea5t c\u1ea3 v\u00e0 tr\u1edf th\u00e0nh t\u00f9 nh\u00e2n ch\u1ec9 v\u00ec t\u00f4i. V\u1eady n\u00ean, t\u00f4i \u0111\u00e3 l\u00ean k\u1ebf ho\u1ea1ch tr\u1ea3 th\u00f9 nh\u1edd s\u1ef1 gi\u00fap \u0111\u1ee1 c\u1ee7a v\u1ecb linh m\u1ee5c.<\/p>",
+                "created_at": "2024-05-23T07:40:38.000000Z",
+                "updated_at": "2024-05-23T07:40:39.000000Z",
+                "api_updated_at": "2024-05-23 07:40:39",
+                "chapters_count": 11,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "name": "Ta L\u00e0 S\u00e1t Th\u1ea7n",
+                "slug": "sat-than-chi-lo-tai-di-gioi",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/sat-than-chi-lo-tai-di-gioi-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Tr\u1ea7n Tri Li\u1ec7u l\u00e0 m\u1ed9t h\u1ecdc sinh gi\u1ecfi \u1edf th\u1eddi hi\u1ec7n \u0111\u1ea1i, thi\u00ean t\u00e0i ki\u1ebfm \u0111\u1ea1o, v\u00ec theo \u0111u\u1ed5i g\u00e1i m\u00e0 b\u1ecb s\u00e9t \u0111\u00e1nh r\u01a1i v\u00e0o trong th\u1ebf gi\u1edbi tr\u00f2 ch\u01a1i, kh\u00f4ng c\u00e1ch n\u00e0o tr\u1edf ra \u0111\u01b0\u1ee3c! H\u1eafn mu\u1ed1n s\u1ed1ng s\u00f3t trong th\u1ebf gi\u1edbi tr\u00f2 ch\u01a1i n\u00e0y nh\u01b0ng kh\u00f4ng ng\u1edd l\u1ea1i \u0111\u1ee5ng \u0111\u1ed9 ph\u1ea3i h\u00e0ng kh\u1ee7ng c\u1ea5p Th\u1ea7n ngay khi v\u1eeba b\u1eaft \u0111\u1ea7u game! Ng\u01b0\u1eddi ch\u01a1i Tr\u1ea7n Tri Li\u1ec7u ch\u1ea5p nh\u1eadn s\u1ed1 ph\u1eadn th\u1ea5t b\u1ea1i tr\u01b0\u1edbc Th\u1ea7n hay b\u1ee9c ph\u00e1 \u0111\u1ec3 c\u00f3 th\u1ec3 tr\u1edf v\u1ec1 th\u1ebf gi\u1edbi th\u1eadt \u0111\u00e2y?<\/p>",
+                "created_at": "2024-05-23T07:40:47.000000Z",
+                "updated_at": "2024-05-23T07:40:49.000000Z",
+                "api_updated_at": "2024-05-23 07:40:49",
+                "chapters_count": 77,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "name": "Ta \u0110em Ho\u00e0ng T\u1eed D\u01b0\u1ee1ng Th\u00e0nh H\u1eafc H\u00f3a",
+                "slug": "ta-dem-hoang-tu-duong-thanh-hac-hoa",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/ta-dem-hoang-tu-duong-thanh-hac-hoa-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Truy\u1ec7n tranh Ta \u0110em Ho\u00e0ng T\u1eed D\u01b0\u1ee1ng Th\u00e0nh H\u1eafc H\u00f3a \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i metruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 metruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n Ta \u0110em Ho\u00e0ng T\u1eed D\u01b0\u1ee1ng Th\u00e0nh H\u1eafc H\u00f3a.<\/p>",
+                "created_at": "2024-05-23T07:41:47.000000Z",
+                "updated_at": "2024-05-23T07:41:49.000000Z",
+                "api_updated_at": "2024-05-23 07:41:49",
+                "chapters_count": 117,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "name": "Ta C\u00f3 M\u1ed9t S\u01a1n Tr\u1ea1i",
+                "slug": "ta-co-mot-son-trai",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/ta-co-mot-son-trai-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Truy\u1ec7n tranh Ta C\u00f3 M\u1ed9t S\u01a1n Tr\u1ea1i \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i metruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 metruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n Ta C\u00f3 M\u1ed9t S\u01a1n Tr\u1ea1i.<\/p>",
+                "created_at": "2024-05-23T07:43:17.000000Z",
+                "updated_at": "2024-05-23T07:43:19.000000Z",
+                "api_updated_at": "2024-05-23 07:43:19",
+                "chapters_count": 885,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "name": "Ta C\u00f3 90 T\u1ef7 Ti\u1ec1n Li\u1ebfm C\u1ea9u!",
+                "slug": "ta-co-90-ty-tien-liem-cau",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/ta-co-90-ty-tien-liem-cau-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Sinh vi\u00ean Tr\u1ea7n Vi\u1ec5n crush n\u1eef th\u1ea7n \u0110\u1ed3ng \u0110\u1ed3ng ba n\u0103m, l\u1ea1i b\u1ecb \u0111\u1ed1i ph\u01b0\u01a1ng m\u1ed9t c\u01b0\u1edbc \u0111\u1ea1p bay. Sau khi \u0111au kh\u1ed5 l\u1ea1i ngo\u00e0i \u00fd mu\u1ed1n k\u00edch ho\u1ea1t h\u1ec7 th\u1ed1ng ti\u1ec1n li\u1ebfm c\u1ea9u, c\u00f2n c\u00f3 90 t\u1ef7 ti\u1ec1n li\u1ebfm c\u1ea9u, c\u00f4ng d\u1ee5ng ch\u1ec9 \u0111\u1ec3 simp n\u1eef nh\u00e2n! C\u00e0ng x\u00e0i nhi\u1ec1u ti\u1ec1n, c\u00e0ng thu \u0111\u01b0\u1ee3c c\u00e1c lo\u1ea1i thu\u1ed9c t\u00ednh. T\u00ean l\u00e0 Li\u1ebfm C\u1ea9u Kim H\u1ec7 Th\u1ed1ng th\u00ec ta th\u1eadt s\u1ef1 c\u1ea7n li\u1ebfm c\u1ea9u sao? Ch\u1ec9 c\u1ea7n \u0111\u1ee7 nhi\u1ec1u ti\u1ec1n ta ch\u00ednh l\u00e0 trap boy ch\u1ec9 c\u1ea7n d\u00f9ng ti\u1ec1n l\u00e0 c\u00f3 th\u1ec3 ch\u1ee9ng minh v\u1edbi n\u1eef th\u1ea7n l\u00e0 ta \u0111ang li\u1ebfm c\u1ea9u! L\u00fac n\u00e0y Tr\u1ea7n Vi\u1ec5n \u0111\u00e3 m\u1edf ra con \u0111\u01b0\u1eddng nh\u00e2n sinh c\u1ee7a m\u00ecnh!<\/p>",
+                "created_at": "2024-05-23T07:54:19.000000Z",
+                "updated_at": "2024-05-23T07:54:20.000000Z",
+                "api_updated_at": "2024-05-23 07:54:20",
+                "chapters_count": 210,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "name": "Ta Chuy\u1ec3n Sinh Th\u00e0nh V\u1ea1n Y\u00eau Chi V\u01b0\u01a1ng",
+                "slug": "ta-chuyen-sinh-thanh-van-yeu-chi-vuong",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/ta-chuyen-sinh-thanh-van-yeu-chi-vuong-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Truy\u1ec7n tranh Ta Chuy\u1ec3n Sinh Th\u00e0nh V\u1ea1n Y\u00eau Chi V\u01b0\u01a1ng \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i metruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 metruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n Ta Chuy\u1ec3n Sinh Th\u00e0nh V\u1ea1n Y\u00eau Chi V\u01b0\u01a1ng.<\/p>",
+                "created_at": "2024-05-23T07:56:57.000000Z",
+                "updated_at": "2024-05-23T07:56:58.000000Z",
+                "api_updated_at": "2024-05-23 07:56:58",
+                "chapters_count": 35,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "name": "S\u1ef1 Tr\u1edf L\u1ea1i C\u1ee7a Ng\u01b0\u1eddi Ch\u01a1i Thi\u00ean T\u00e0i",
+                "slug": "su-tro-lai-cua-nguoi-choi-thien-tai",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/su-tro-lai-cua-nguoi-choi-thien-tai-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Truy\u1ec7n tranh S\u1ef1 Tr\u1edf L\u1ea1i C\u1ee7a Ng\u01b0\u1eddi Ch\u01a1i Thi\u00ean T\u00e0i \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i metruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 metruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n S\u1ef1 Tr\u1edf L\u1ea1i C\u1ee7a Ng\u01b0\u1eddi Ch\u01a1i Thi\u00ean T\u00e0i.<\/p>",
+                "created_at": "2024-05-23T07:57:24.000000Z",
+                "updated_at": "2024-05-23T07:57:25.000000Z",
+                "api_updated_at": "2024-05-23 07:57:25",
+                "chapters_count": 3,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "name": "S\u01b0 T\u00f4n: Ngh\u1ecbch \u0110\u1ed3 N\u00e0y Kh\u00f4ng Ph\u1ea3i L\u00e0 Th\u00e1nh T\u1eed",
+                "slug": "su-ton-nghich-do-nay-khong-phai-la-thanh-tu",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/su-ton-nghich-do-nay-khong-phai-la-thanh-tu-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Truy\u1ec7n tranh S\u01b0 T\u00f4n: Ngh\u1ecbch \u0110\u1ed3 N\u00e0y Kh\u00f4ng Ph\u1ea3i L\u00e0 Th\u00e1nh T\u1eed \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt nhanh v\u00e0 \u0111\u1ea7y \u0111\u1ee7 nh\u1ea5t t\u1ea1i metruyen. B\u1ea1n \u0111\u1ecdc \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i b\u00ecnh lu\u1eadn v\u00e0 chia s\u1ebb, \u1ee7ng h\u1ed9 metruyen ra c\u00e1c ch\u01b0\u01a1ng m\u1edbi nh\u1ea5t c\u1ee7a truy\u1ec7n S\u01b0 T\u00f4n: Ngh\u1ecbch \u0110\u1ed3 N\u00e0y Kh\u00f4ng Ph\u1ea3i L\u00e0 Th\u00e1nh T\u1eed.<\/p>",
+                "created_at": "2024-05-23T07:57:28.000000Z",
+                "updated_at": "2024-05-23T07:57:29.000000Z",
+                "api_updated_at": "2024-05-23 07:57:29",
+                "chapters_count": 48,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 19,
+                "name": "S\u1ef1 Quy\u1ebfn R\u1ee7 C\u1ee7a 25D",
+                "slug": "su-quyen-ru-cua-25d",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/su-quyen-ru-cua-25d-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>Cosplay , g\u00e1i cute con mai que<\/p>",
+                "created_at": "2024-05-23T07:58:08.000000Z",
+                "updated_at": "2024-05-23T07:58:09.000000Z",
+                "api_updated_at": "2024-05-23 07:58:09",
+                "chapters_count": 105,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "name": "Sket Dance",
+                "slug": "sket-dance",
+                "status": 0,
+                "view": 0,
+                "thumb_url": "https:\/\/img.otruyenapi.com\/uploads\/comics\/sket-dance-thumb.jpg",
+                "sub_docquyen": 0,
+                "content": "<p>C\u00e2u chuy\u1ec7n k\u1ec3 v\u1ec1 1 club t\u1eadp h\u1ee3p nh\u1eefng qu\u00e1i nh\u00e2n chuy\u00ean \u0111i gi\u1ea3i quy\u1ebft r\u1eafc r\u1ed1i cho ng\u01b0\u1eddi kh\u00e1c!!!M\u1ed9t manga hay v\u00e0 c\u00f3 \u00fd ngh\u0129a, x\u00fac \u0111\u1ed9ng nh\u01b0ng kh\u00f4ng k\u00e9m ph\u1ea7n h\u00e0i h\u01b0\u1edbc.<\/p>",
+                "created_at": "2024-05-23T07:59:28.000000Z",
+                "updated_at": "2024-05-23T07:59:29.000000Z",
+                "api_updated_at": "2024-05-23 07:59:29",
+                "chapters_count": 167,
+                "status_label": "ONGOING",
+                "authors": [
+                    {
+                        "id": 2,
+                        "name": "Osaki Isle",
+                        "slug": "osaki-isle",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 2
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Kobota Misuho",
+                        "slug": "kobota-misuho",
+                        "created_at": "2024-05-22T04:53:55.000000Z",
+                        "updated_at": null,
+                        "pivot": {
+                            "comic_id": 342,
+                            "author_id": 3
+                        }
+                    }
+                ]
+            }
+        ],
+        "first_page_url": "http:\/\/truyentranh.crawl\/api\/v1\/categories\/list-comic?page=1",
+        "from": 1,
+        "last_page": 4,
+        "last_page_url": "http:\/\/truyentranh.crawl\/api\/v1\/categories\/list-comic?page=4",
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "http:\/\/truyentranh.crawl\/api\/v1\/categories\/list-comic?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "http:\/\/truyentranh.crawl\/api\/v1\/categories\/list-comic?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "http:\/\/truyentranh.crawl\/api\/v1\/categories\/list-comic?page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "http:\/\/truyentranh.crawl\/api\/v1\/categories\/list-comic?page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "http:\/\/truyentranh.crawl\/api\/v1\/categories\/list-comic?page=2",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "http:\/\/truyentranh.crawl\/api\/v1\/categories\/list-comic?page=2",
+        "path": "http:\/\/truyentranh.crawl\/api\/v1\/categories\/list-comic",
+        "per_page": 20,
+        "prev_page_url": null,
+        "to": 20,
+        "total": 63
+    },
+    "params": {
+        "api_key": "test",
+        "brand": "MeTruyen",
+        "domain_link": "metruyen.online"
+    }
+}
